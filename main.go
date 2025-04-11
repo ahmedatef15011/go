@@ -16,5 +16,5 @@ func init() {
 }
 
 func main() {
-	// Dummy main() to satisfy linker
+	// Empty but required main function
 }
