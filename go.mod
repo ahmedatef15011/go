@@ -1,3 +1,3 @@
 module github.com/ahmedatef15011/go
 
-go 1.18
+go 1.9
